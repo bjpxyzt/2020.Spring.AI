@@ -1,4 +1,10 @@
 
+### Youtube 강의 
+- https://www.youtube.com/playlist?list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2
+
+### 피드백
+- 차후 강의에서는 인공지능을 위한 수학은 뺴고 CNN+RNN을 빠르게 보강할 계획
+
 
 ## 수업정보
 - 코로나19로 인한 온라인 동영상 
